@@ -1,0 +1,6 @@
+Team Members: Eugene Min (emin2) Adalia Truong (adalia) Anthony Donberger (apdonberger)
+
+- Helpful comments
+- Simple, straightforward code
+- Code is modular which makes it easier to edit later on
+- Maybe make the attendees not hardcoded
